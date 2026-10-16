@@ -1,0 +1,17 @@
+item,value
+Intercept_b0,5.008883505168288
+Study_Hours_Coefficient_b1,2.263131215725618
+Attendance_Coefficient_b2,7.01059520281556
+Previous_Score_Coefficient_b3,5.454070891281504
+Initial_Log_Loss,0.6931471805599448
+Final_Log_Loss,0.0316631014528786
+Test_Samples,9.0
+True_Positive,6.0
+True_Negative,3.0
+False_Positive,0.0
+False_Negative,0.0
+Accuracy,1.0
+Precision,1.0
+Recall,1.0
+F1_Score,1.0
+ROC_AUC,1.0

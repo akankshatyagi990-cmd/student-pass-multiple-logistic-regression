@@ -1,0 +1,7 @@
+parameter,value
+b0,5.008883505168288
+b1_study_hours,2.263131215725618
+b2_attendance,7.01059520281556
+b3_previous_score,5.454070891281504
+learning_rate,0.1
+epochs,10000.0

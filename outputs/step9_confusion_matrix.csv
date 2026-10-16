@@ -1,0 +1,5 @@
+Actual_Class,Predicted_Class,Type,Count
+Fail,Fail,True Negative,3
+Fail,Pass,False Positive,0
+Pass,Fail,False Negative,0
+Pass,Pass,True Positive,6
